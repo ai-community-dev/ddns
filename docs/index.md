@@ -7,7 +7,7 @@ hero:
   text: "A free subdomain provider for the Machine Learning community "
   tagline: "🚀"
   image:
-      src: "https://github.com/ML-comm.png"
+      src: "https://github.com/ai-community-dev.png"
       alt: "Hero Image"
   actions:
     - theme: brand

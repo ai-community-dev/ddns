@@ -41,10 +41,10 @@ When submitting your pull request, we ask that you add your email under the emai
 ## JSON Example 
 ```json
 {
-    "repo": "https://github.com/ML-comm/ddns",
+    "repo": "https://github.com/ai-community-dev/ddns",
 
     "owner": {
-        "username": "ml-comm",
+        "username": "ai-community-dev",
         "email": "admin@aicommunity.dev"
     },
 

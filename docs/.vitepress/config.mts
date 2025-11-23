@@ -5,17 +5,17 @@ export default defineConfig({
   title: "DDNS",
   description: "A free subdomain provider for the Machine Learning community ",
   head: [
-    ['link', { rel: 'icon', href: 'https://github.com/ML-comm.png' }]
+    ['link', { rel: 'icon', href: 'https://github.com/ai-community-dev.png' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/getting-started' },
-      { text: 'Fork', link: 'https://github.com/ml-comm/ddns/fork' },
+      { text: 'Fork', link: 'https://github.com/ai-community-dev/ddns/fork' },
     ],
 
-    logo: "https://github.com/ML-comm.png",
+    logo: "https://github.com/ai-community-dev.png",
 
     sidebar: [
       {
@@ -29,11 +29,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ml-comm/ddns' }
+      { icon: 'github', link: 'https://github.com/ai-community-dev/ddns' }
     ],
 
     editLink: {
-      pattern: "https://github.com/ML-comm/ddns/edit/main/docs/:path",
+      pattern: "https://github.com/ai-community-dev/ddns/edit/main/docs/:path",
     },
 
     lastUpdated: {

@@ -4,14 +4,14 @@ This guide explains how to get a free `*.aicommunity.dev` subdomain for your mac
 
 **Steps:**
 
-1. **Fork the Repository:** Fork the [ddns repository](https://github.com/ml-comm/ddns/fork) to your GitHub account. This creates a copy you can edit.
+1. **Fork the Repository:** Fork the [ddns repository](https://github.com/ai-community-dev/ddns/fork) to your GitHub account. This creates a copy you can edit.
 
 2. **Create a Configuration File:**
    - In your forked repository, create a new JSON file inside the `domains` directory.
    - Name the file after your desired subdomain (e.g., `my-project.json` for `my-project.aicommunity.dev`).  The full path would be `domains/my-project.json`.
    - **Important:**  See the [format documentation](format.md) for the required JSON structure.  Double-check your file for accuracy.
 
-3. **Request Your Subdomain:** Open an issue on the main ddns repository using the [request template](https://github.com/ml-comm/ddns/issues/new?assignees=&labels=request&projects=&template=REQUEST.yml&title=%5BREQUEST%5D%3A+).  Discuss your desired subdomain and any specific needs.  This allows us to review and approve your request.
+3. **Request Your Subdomain:** Open an issue on the main ddns repository using the [request template](https://github.com/ai-community-dev/ddns/issues/new?assignees=&labels=request&projects=&template=REQUEST.yml&title=%5BREQUEST%5D%3A+).  Discuss your desired subdomain and any specific needs.  This allows us to review and approve your request.
 
 4. **Submit a Pull Request:** Once your request is approved, create a pull request from your forked repository to the main `ddns` repository, including your newly created JSON file.
 
