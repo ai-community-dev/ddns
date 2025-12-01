@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/ai-community-dev/web",
+
+    "owner": {
+        "username": "smanitech",
+        "email": "tech.smani@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "@",
+            "value": "aicommunity-dev.vercel.app"
+        }
+    },
+
+    "proxied": false
+}
