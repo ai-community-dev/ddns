@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/ai-community-dev/web",
+
+    "owner": {
+        "username": "smanitech",
+        "email": "tech.smani@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "s",
+            "value": "cname.dub.co"
+        }
+    },
+
+    "proxied": true
+}
