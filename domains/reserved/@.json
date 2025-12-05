@@ -10,6 +10,10 @@
         "CNAME": {
             "name": "@",
             "value": "aicommunity-dev.vercel.app"
+        },
+        "CNAME": {
+            "name": "s",
+            "value": "cname.dub.co"
         }
     },
 
