@@ -5,6 +5,7 @@ on:
         branches: [main]
         paths:
             - "domains/*"
+            - "domains/reserved/*"
             - ".github/workflows/publish.yml"
             - "dnsconfig.js"
 
