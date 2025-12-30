@@ -9,10 +9,9 @@
   "target": {
     "CNAME": {
        "name": "chandigarh", 
-       "value": "8c72e9a37f0252f5.vercel-dns-017.com."
+       "value": "ai-community-chandigarh.vercel.app"
      }
   },
 
   "proxied": false
 }
-
