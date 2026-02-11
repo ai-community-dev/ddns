@@ -1,0 +1,15 @@
+{
+  "@origin": "jalandhar",
+  "records": [
+    {
+      "type": "TXT",
+      "name": "jalandhar",
+      "value": "google-site-verification=Ij2StpjijNOa9yKeEbTCAPmvgcs-xOwPPFTV2L-Q7U0"
+    },
+    {
+      "type": "CNAME",
+      "name": "5sgjv3z6aelm.jalandhar",
+      "value": "gv-t4xiccrwtvd4af.dv.googlehosted.com"
+    }
+  ]
+}
