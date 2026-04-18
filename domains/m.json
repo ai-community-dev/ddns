@@ -1,9 +1,9 @@
 {
-  "repo": "",
+  "repo": "https://github.com/ai-community-dev/ddns",
 
   "owner": {
-    "username": "",
-    "email": ""
+    "username": "ai-community-dev",
+    "email": "team@aicommunity.dev"
   },
 
   "target": {
