@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "",
+    "email": ""
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "m",
+      "value": "3396ae15-0cde-421b-9ef2-4fcc67e41c51.cfargotunnel.com"
+    }
+  },
+
+  "proxied": false
+}
